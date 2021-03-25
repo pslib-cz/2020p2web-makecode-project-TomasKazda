@@ -1,5 +1,5 @@
 {
-    "name": "template arcade project-name",
+    "name": "arcade Pizza game",
     "description": "",
     "dependencies": {
         "device": "*"
